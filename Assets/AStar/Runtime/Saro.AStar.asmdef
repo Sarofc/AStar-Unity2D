@@ -1,0 +1,16 @@
+{
+    "name": "Saro.AStar",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2ca37c06fe50bb4449cea1de6e7aa865"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
